@@ -40,14 +40,12 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PersonDKt">
-    <configuration name="InitOrderKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InitOrderKt" />
-      <module name="KonsepOOP_Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="Dhafi.test_kelas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.PersonEKt">
     <configuration name="PersonAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.PersonAKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -76,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.PersonEKt" />
+      <module name="KonsepOOP_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonDKt" />
         <item itemvalue="Kotlin.PersonCKt" />
         <item itemvalue="Kotlin.PersonBKt" />
         <item itemvalue="Kotlin.PersonAKt" />
-        <item itemvalue="Kotlin.InitOrderKt" />
       </list>
     </recent_temporary>
   </component>
