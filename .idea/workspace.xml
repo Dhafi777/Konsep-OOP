@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KonsepOOP_Kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/Greeter.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/GreeterTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/Greeter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/Greeter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/GreeterTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/GreeterTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +21,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2mBMDftyiNvsNJOlzcbeCrfKiNB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -41,8 +37,8 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "dart.analysis.tool.window.visible": "false",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
@@ -68,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1726545399197</updated>
     </task>
+    <task id="LOCAL-00001" summary="add Kelas">
+      <created>1726545895526</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726545895526</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Kelas" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Kelas" />
   </component>
 </project>
