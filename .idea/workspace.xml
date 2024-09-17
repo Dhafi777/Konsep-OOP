@@ -45,9 +45,9 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PersonFKt">
-    <configuration name="PersonBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.PersonBKt" />
+  <component name="RunManager" selected="Kotlin.EnkapsulasiAKt">
+    <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.EnkapsulasiAKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnkapsulasiAKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonDKt" />
         <item itemvalue="Kotlin.PersonCKt" />
-        <item itemvalue="Kotlin.PersonBKt" />
       </list>
     </recent_temporary>
   </component>
