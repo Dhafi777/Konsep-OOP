@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/InheritanceD.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/InheritanceH.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +44,7 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InheritanceGKt">
-    <configuration name="InheritanceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InheritanceCKt" />
-      <module name="KonsepOOP_Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.InheritanceHKt">
     <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InheritanceDKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -81,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceHKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InheritanceHKt" />
+      <module name="KonsepOOP_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceHKt" />
         <item itemvalue="Kotlin.InheritanceGKt" />
         <item itemvalue="Kotlin.InheritanceFKt" />
         <item itemvalue="Kotlin.InheritanceEKt" />
         <item itemvalue="Kotlin.InheritanceDKt" />
-        <item itemvalue="Kotlin.InheritanceCKt" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +176,35 @@
       <option name="project" value="LOCAL" />
       <updated>1726992024845</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add InheritanceD.kt">
+      <created>1726992133188</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726992133188</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add InheritanceE.kt">
+      <created>1726992228721</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726992228721</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add InheritanceF.kt">
+      <created>1726992296163</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1726992296163</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add InheritanceG.kt">
+      <created>1726992401838</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726992401838</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +215,10 @@
     <MESSAGE value="add InheritanceA.kt" />
     <MESSAGE value="add InheritanceB.kt" />
     <MESSAGE value="add InheritanceC.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add InheritanceC.kt" />
+    <MESSAGE value="add InheritanceD.kt" />
+    <MESSAGE value="add InheritanceE.kt" />
+    <MESSAGE value="add InheritanceF.kt" />
+    <MESSAGE value="add InheritanceG.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add InheritanceG.kt" />
   </component>
 </project>
