@@ -44,14 +44,7 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.NestedInnerClassAKt">
-    <configuration name="InterfaceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InterfaceBKt" />
-      <module name="KonsepOOP_Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.NestedInnerClassBKt">
     <configuration name="InterfaceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InterfaceCKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -73,6 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NestedInnerClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.NestedInnerClassBKt" />
+      <module name="KonsepOOP_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.NestedInnerClassKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NestedInnerClassBKt" />
         <item itemvalue="Kotlin.NestedInnerClassAKt" />
         <item itemvalue="Kotlin.NestedInnerClassKt" />
         <item itemvalue="Kotlin.InterfaceDKt" />
         <item itemvalue="Kotlin.InterfaceCKt" />
-        <item itemvalue="Kotlin.InterfaceBKt" />
       </list>
     </recent_temporary>
   </component>
