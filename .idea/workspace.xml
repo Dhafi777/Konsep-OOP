@@ -44,7 +44,7 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfaceAKt">
+  <component name="RunManager" selected="Kotlin.InterfaceBKt">
     <configuration name="AccessModifierA2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.AccessModifierA2Kt" />
       <module name="KonsepOOP_Kotlin" />
@@ -66,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.PolymorphismBKt" />
+    <configuration name="InterfaceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InterfaceBKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceBKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
         <item itemvalue="Kotlin.AccessModifierA2Kt" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
         <item itemvalue="Kotlin.VisibilityAKt" />
-        <item itemvalue="Kotlin.PolymorphismBKt" />
       </list>
     </recent_temporary>
   </component>
