@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/EnkapsulasiB.kt" afterDir="false" />
-    </list>
+    <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +42,7 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InheritanceAKt">
+  <component name="RunManager" selected="Kotlin.InheritanceBKt">
     <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.EnkapsulasiAKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -66,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PersonEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.PersonEKt" />
+    <configuration name="InheritanceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InheritanceBKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceBKt" />
         <item itemvalue="Kotlin.InheritanceAKt" />
         <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.EnkapsulasiAKt" />
         <item itemvalue="Kotlin.PersonFKt" />
-        <item itemvalue="Kotlin.PersonEKt" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726546673942</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add InheritanceA.kt">
+      <created>1726991682064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726991682064</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -163,6 +168,7 @@
     <MESSAGE value="add Konstruktor InitOrder.kt" />
     <MESSAGE value="add Konstruktor Person" />
     <MESSAGE value="add EnkapsulasiA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add EnkapsulasiA.kt" />
+    <MESSAGE value="add InheritanceA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add InheritanceA.kt" />
   </component>
 </project>
