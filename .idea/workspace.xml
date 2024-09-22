@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="add NestedInnerClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/DataClassA.kt" afterDir="false" />
+    <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/DataClassD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -44,7 +45,7 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.DataClassCKt">
+  <component name="RunManager" selected="Kotlin.DataClassFKt">
     <configuration name="DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.DataClassCKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -52,15 +53,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InterfaceDKt" />
+    <configuration name="DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.DataClassDKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.NestedInnerClassAKt" />
+    <configuration name="DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.DataClassEKt" />
+      <module name="KonsepOOP_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.DataClassFKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,20 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.NestedInnerClassKt" />
-      <module name="KonsepOOP_Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassFKt" />
+        <item itemvalue="Kotlin.DataClassEKt" />
+        <item itemvalue="Kotlin.DataClassDKt" />
         <item itemvalue="Kotlin.DataClassCKt" />
         <item itemvalue="Kotlin.NestedInnerClassBKt" />
-        <item itemvalue="Kotlin.NestedInnerClassAKt" />
-        <item itemvalue="Kotlin.NestedInnerClassKt" />
-        <item itemvalue="Kotlin.InterfaceDKt" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727025361358</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add DataClassB.kt">
+      <created>1727025469092</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025469092</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add DataClassC.kt">
+      <created>1727025523010</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025523010</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -320,7 +335,9 @@
     <MESSAGE value="add NestedInnerClass.kt" />
     <MESSAGE value="add NestedInnerClassA.kt" />
     <MESSAGE value="add NestedInnerClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NestedInnerClassB.kt" />
+    <MESSAGE value="add DataClassB.kt" />
+    <MESSAGE value="add DataClassC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DataClassC.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
