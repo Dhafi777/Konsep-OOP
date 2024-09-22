@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="723df126-02e3-45ef-a8a2-9145118738c0" name="Changes" comment="add NestedInnerClassB.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/DataClassA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +267,35 @@
       <option name="project" value="LOCAL" />
       <updated>1727025088278</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add InterfaceD.kt">
+      <created>1727025183544</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025183544</updated>
+    </task>
+    <task id="LOCAL-00026" summary="add NestedInnerClass.kt">
+      <created>1727025257122</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025257122</updated>
+    </task>
+    <task id="LOCAL-00027" summary="add NestedInnerClassA.kt">
+      <created>1727025317232</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025317232</updated>
+    </task>
+    <task id="LOCAL-00028" summary="add NestedInnerClassB.kt">
+      <created>1727025361358</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025361358</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,7 +316,11 @@
     <MESSAGE value="add InterfaceA.kt" />
     <MESSAGE value="add InterfaceB.kt" />
     <MESSAGE value="add InterfaceC.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add InterfaceC.kt" />
+    <MESSAGE value="add InterfaceD.kt" />
+    <MESSAGE value="add NestedInnerClass.kt" />
+    <MESSAGE value="add NestedInnerClassA.kt" />
+    <MESSAGE value="add NestedInnerClassB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add NestedInnerClassB.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -301,6 +333,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/Dhafi/test_kelas/NestedInnerClassA.kt</url>
+          <line>4</line>
+          <properties class="Dhafi.test_kelas.OuterA.Inner" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
