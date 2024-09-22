@@ -44,14 +44,7 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InheritanceHKt">
-    <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InheritanceDKt" />
-      <module name="KonsepOOP_Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PolymorphismAKt">
     <configuration name="InheritanceEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InheritanceEKt" />
       <module name="KonsepOOP_Kotlin" />
@@ -80,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.PolymorphismAKt" />
+      <module name="KonsepOOP_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PolymorphismAKt" />
         <item itemvalue="Kotlin.InheritanceHKt" />
         <item itemvalue="Kotlin.InheritanceGKt" />
         <item itemvalue="Kotlin.InheritanceFKt" />
         <item itemvalue="Kotlin.InheritanceEKt" />
-        <item itemvalue="Kotlin.InheritanceDKt" />
       </list>
     </recent_temporary>
   </component>
