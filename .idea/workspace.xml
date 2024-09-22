@@ -44,16 +44,9 @@
       <recent name="Dhafi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfaceBKt">
+  <component name="RunManager" selected="Kotlin.InterfaceDKt">
     <configuration name="AccessModifierA2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.AccessModifierA2Kt" />
-      <module name="KonsepOOP_Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.AccessModifierAKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +66,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisibilityAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.VisibilityAKt" />
+    <configuration name="InterfaceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InterfaceCKt" />
+      <module name="KonsepOOP_Kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dhafi.test_kelas.InterfaceDKt" />
       <module name="KonsepOOP_Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceDKt" />
+        <item itemvalue="Kotlin.InterfaceCKt" />
         <item itemvalue="Kotlin.InterfaceBKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
         <item itemvalue="Kotlin.AccessModifierA2Kt" />
-        <item itemvalue="Kotlin.AccessModifierAKt" />
-        <item itemvalue="Kotlin.VisibilityAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +246,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726993051571</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="add InterfaceA.kt">
+      <created>1727024926013</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024926013</updated>
+    </task>
+    <task id="LOCAL-00023" summary="add InterfaceB.kt">
+      <created>1727024990609</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1727024990609</updated>
+    </task>
+    <task id="LOCAL-00024" summary="add InterfaceC.kt">
+      <created>1727025088278</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1727025088278</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,7 +285,10 @@
     <MESSAGE value="add PolymorphismB.kt" />
     <MESSAGE value="add VisibilityA.kt" />
     <MESSAGE value="add AccessModifierA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add AccessModifierA.kt" />
+    <MESSAGE value="add InterfaceA.kt" />
+    <MESSAGE value="add InterfaceB.kt" />
+    <MESSAGE value="add InterfaceC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add InterfaceC.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
